@@ -1,0 +1,9 @@
+.cards{
+    
+    padding: 30px;
+    background-color: rgb(221, 221, 221);
+}
+.cards card{
+    margin: 40px;
+    padding: 30px;
+}
